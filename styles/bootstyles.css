@@ -1,0 +1,87 @@
+html{
+    background-image: url("../images/star_wars_wallpaper.jpeg");
+    background-attachment: fixed;
+}
+
+body{
+    color: black;
+}
+
+.page-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 50;
+}
+
+a{
+    color:#fdfdfd;
+    font-weight: 700;
+}
+
+a:hover{
+    color: #6c8a5b;
+}
+
+.top-link{
+    color: black;
+}
+
+.tableau-description{
+    color:white;
+    font-family: roboto sans-serif;
+    font-size: 20px;
+    padding:10px;
+    background-color: #2f170fe6;
+    text-align: center;
+    font-weight: bold;
+}
+
+.top-link:hover{
+    color: white;
+}
+
+.nav-menu{
+    font-family: roboto,sans-serif;
+    text-align: center;
+    color: #6c8a5b;
+    font-size: 25px;
+    background-color: #2f170fe6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 300px;
+    width:auto;
+}
+
+.mainbody{
+    top: 214px;
+    bottom: 64px;
+    left: 30px;
+    right: 30px;
+    width: auto;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.footer{
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    width: auto;
+    background-color: #6c8a5b;
+    text-align: center;
+}
+
+.mb{
+    margin-bottom: 70px;
+}

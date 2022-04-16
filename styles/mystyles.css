@@ -1,0 +1,47 @@
+.dark-green-text{
+    color: #6c8a5b !important;
+}
+
+.btn-color{
+    background-color: #6c8a5b;
+    border-color: #6c8a5b;
+}
+.btn-color:hover{
+    color: #000;
+    background-color: #a5d18c;
+    border-color: #a5d18c;
+}
+
+.section-color{
+    background-color: #2f170fe6;
+}
+
+.nav-item-font-size{
+    font-size: 1.2rem !important;
+}
+
+.nav-home-button{
+    margin-right: auto !important;
+    margin-left: 0 !important;
+    color:#6c8a5b;
+    font-weight: 800;
+}
+
+.nav-items-styles{
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+
+.center-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.secondary-nav-styles{
+    color: #6c8a5b
+}
+
+.secondary-nav-styles:hover{
+    color: #9ac382;
+}
